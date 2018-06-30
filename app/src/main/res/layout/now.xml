@@ -12,6 +12,7 @@
         android:layout_gravity="end"
         android:textSize="60sp"
         android:text=""
+        android:textColor="#fff"
         />
 
    <TextView
@@ -20,6 +21,7 @@
        android:layout_height="wrap_content"
        android:layout_gravity="end"
        android:text=""
-       android:textSize="20sp"/>
+       android:textSize="20sp"
+       android:textColor="#fff"/>
 
 </LinearLayout>
